@@ -69,4 +69,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 MIT License. See [LICENSE](LICENSE).
 
 ## Contact
-Connect via GitHub Issues or LinkedIn: [Your LinkedIn Profile URL]
+Connect via GitHub Issues or www.egkhor.com.my

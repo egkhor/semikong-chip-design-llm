@@ -14,7 +14,6 @@ Join us to optimize semiconductor chip design with AI! Here’s how to contribut
 2. Branch: `git checkout -b feature/your-feature`.
 3. Commit: `git commit -m "Add your feature"`.
 4. Push and open a pull request.
-5. Join Discussions: [GitHub Discussions](https://github.com/egkhor/semikong-chip-design-llm/discussions).
 
 ## Guidelines
 - Use anonymized data.

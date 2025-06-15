@@ -63,7 +63,7 @@ semikong-chip-design-llm/
 - **Future Work**: Integrate true LLMs (e.g., fine-tuned Llama) or EDA tools.
 
 ## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.markdown).
 
 ## License
 MIT License. See [LICENSE](LICENSE).
